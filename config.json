@@ -3,5 +3,6 @@
     "introduction": "本书用Go重写了所有示例程序，通过循序渐进的方法介绍Linux进程的工作原理和一切你所需要知道的概念。",
     "path" : {
          "toc" : "SUMMARY.md"
+	 "images" : "https://github.com/wenquan0hf/understand_linux_process/tree/master/foreword/image"
     }
 }
