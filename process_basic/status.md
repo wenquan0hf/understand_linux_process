@@ -29,7 +29,7 @@ static const char * const task_state_array[] = {
 
 ## 进程状态转换
 
-![](image/status_transform.svg)
+![](../images/status_transform.svg)
 
 
 [使用Ptrace](https://idea.popcount.org/2012-12-11-linux-process-states/)

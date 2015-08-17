@@ -13,7 +13,7 @@ POSIX是一些IEEE标准，包括1003.0、1003.1、1003.1b和2003等，实际上
 
 鉴于绝大多数程序员都没看过IEEE文档，我们就翻一下[IEEE 1003.1-2001](http://wenku.baidu.com/link?url=8dfQAy-mpeNdkDzX1LWCCEJia5x4_pS-Br6alnnrNweN8HxyXbHewGnxrPgFhQ3TzaAodlfHay9KiAuOmKbWvfSUr-36XyFIDgokfCldgR7)吧。
 
-![](image/ieee_1003.1.png)
+![](../images/ieee_1003.1.png)
 
 篇幅跟论文差不多，大意就是修正Base标准存在的问题，这个文档没有增加新的接口，但是加了符号、非函数的定义和保留更多命名空间。这是非常严谨的文档，感兴趣的同学可以读下，对普通的程序员我们还是建议了解以下的内容。
 

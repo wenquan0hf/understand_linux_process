@@ -11,19 +11,19 @@
 
 我把演讲的PPT截图贴出来方便大家理解。
 
-![](image/concurrent1.png)
-![](image/concurrent2.png)
-![](image/concurrent3.png)
-![](image/concurrent4.png)
-![](image/concurrent5.png)
-![](image/concurrent6.png)
-![](image/concurrent7.png)
-![](image/concurrent8.png)
-![](image/concurrent9.png)
-![](image/concurrent10.png)
-![](image/concurrent11.png)
-![](image/concurrent12.png)
-![](image/concurrent13.png)
+![](../images/concurrent1.png)
+![](../images/concurrent2.png)
+![](../images/concurrent3.png)
+![](../images/concurrent4.png)
+![](../images/concurrent5.png)
+![](../images/concurrent6.png)
+![](../images/concurrent7.png)
+![](../images/concurrent8.png)
+![](../images/concurrent9.png)
+![](../images/concurrent10.png)
+![](../images/concurrent11.png)
+![](../images/concurrent12.png)
+![](../images/concurrent13.png)
 
 ## 总结
 

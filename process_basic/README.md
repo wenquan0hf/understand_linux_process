@@ -7,4 +7,4 @@
 
 学习完这章我们应该能够准确回答出PID、PPID、进程名字、进程参数、进程状态、退出码、死锁、活锁、POSIX、Nohup等概念。
 
-![](image/htop.png)
+![](../images/htop.png)
